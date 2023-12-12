@@ -57,11 +57,13 @@ print(list_of_nums)
 ## Output:
 OUTPUT 1:
 
-![image](
+![image](https://raw.githubusercontent.com/Girithickrohan/Sorting-Algorithm/main/out1.png)
+
+
 
 OUTPUT2:
 
-![image](
+![image](https://raw.githubusercontent.com/Girithickrohan/Sorting-Algorithm/main/out2.png)
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
